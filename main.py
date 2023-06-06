@@ -8,7 +8,7 @@ import vlc
 import tkinter.messagebox
 
 # Save Directory
-SAVE_DIR = "C:/Users/ashis/Desktop/projectDownloads"
+SAVE_DIR = "Yours Save Directory Folder's Path e.g C:/Users/...."
 
 # Global variable for video
 video = None
