@@ -1,6 +1,5 @@
 # YouTube Video Downloader
 
-![Project Preview](url_to_screenshot.png)
 
 YouTube Video Downloader is a Python application that allows you to download and convert YouTube videos to audio files. You can save your favorite YouTube videos and listen to them offline.
 
